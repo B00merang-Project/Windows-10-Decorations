@@ -1,0 +1,3 @@
+v1.0 : Release of multicolor decorations
+v2.0 : Corrections to files & colors
+v3.0 : Using XML shapes & colors for less CPU usage
